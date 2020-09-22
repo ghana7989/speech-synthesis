@@ -137,7 +137,7 @@ closeBtn.addEventListener("click", () => {
 })
 
 voicesSelect.addEventListener("change", setVocal)
-textarea.value="Hey This Is Ghana Hope You Loved My Project"
+textarea.value="Hey This Is Ghana. Hope You Loved My Project"
 readBtn.addEventListener("click", () => {
   setTextMessage(textarea.value)
   speakText()

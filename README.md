@@ -10,4 +10,4 @@ A text to speech app for non-verbal people. Pre-made buttons and custom text spe
 - Speaks the text typed in
 - Change voices and accents
 
-[Here is the link for Website]("https://ghana7989.github.io/speech-synthesis")
+[Here is the link for Website](https://ghana7989.github.io/speech-synthesis)
